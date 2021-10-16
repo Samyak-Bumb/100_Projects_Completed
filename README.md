@@ -63,7 +63,7 @@ I have *Typed* It,*Modified* It & Added Some Own Lines to Make It Look Awesome â
 Languages Used (In this 100 repos) :- HTML  / CSS  / Java / JavaScript  / C / Python /  VBScript / BatchFile.
 
 Coding Start Date :- 4 August 2021
-Day :- 4 August 2021
+Day :- Wednesday
 
 
 This repo. Upload Date :- **12/10/2021** 
