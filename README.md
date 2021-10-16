@@ -2,8 +2,8 @@
 
 # Created By **Samyak Nitesh Bumb**
 
-# When I Upload This  I Was Of :-
-**15 Year 00Months 00Days (  )**
+# When I Upload This I Was Of :-
+**15 Year 1Months 14Days ( 5,523 Days Old )**
 
 # Thank You
 
@@ -42,7 +42,7 @@ If You Not Get Any Of The Channel Go In YT Filters & Select Type - "Channel"  Ge
 27. DesignCourse
 28. Visual Studio Code
 29. James Q Quick
-30. freeCodeCamp. org
+30. freeCodeCamp.org
 31. DarkCode
 32. Ishan Sharma
 33. Quick Support
@@ -53,8 +53,7 @@ If You Not Get Any Of The Channel Go In YT Filters & Select Type - "Channel"  Ge
 38. JavaScript Mastery
 39. Dev Dreamer
 40. Rajacharles Online Tutorials
-etc.
-69. **Samyak Computer Planet**  (It's My Only Channel 😂😂😂 With *0* Video's) https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA?sub_confirmation=1
+41. **Samyak Computer Planet**  (It's My Only Channel 😂😂😂 With *0* Video's) https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA?sub_confirmation=1
  
 Thank You All Of You 💝☺️👍👍👍
 
@@ -63,9 +62,9 @@ I have *Typed* It,*Modified* It & Added Some Own Lines to Make It Look Awesome �
 
 Languages Used (In this 100 repos) :- HTML  / CSS  / Java / JavaScript  / C / Python /  VBScript / BatchFile.
 
-Coding Start Date :-
-Day :-
+Coding Start Date :- 4 August 2021
+Day :- 4 August 2021
 
 
-This repo. Upload Date :- **00/10/2021** / 
-Day :-
+This repo. Upload Date :- **12/10/2021** 
+Day :- Tuesday
