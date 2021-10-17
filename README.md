@@ -1,4 +1,4 @@
-# 100 Projects Completed
+<!-- # 100 Projects Completed -->
 
 # Created By **Samyak Nitesh Bumb**
 
@@ -58,13 +58,12 @@ If You Not Get Any Of The Channel Go In YT Filters & Select Type - "Channel"  Ge
 Thank You All Of You 💝☺️👍👍👍
 
 *Note* :- I Have "Not Copy Pasted" Their Source Code.
-I have *Typed* It,*Modified* It & Added Some Own Lines to Make It Look Awesome ☺️
+I have *Typed* It, *Modified* It & Added Some Own Lines to Make It Look Awesome ☺️
 
 Languages Used (In this 100 repos) :- HTML  / CSS  / Java / JavaScript  / C / Python /  VBScript / BatchFile.
 
 Coding Start Date :- 4 August 2021
 Day :- Wednesday
 
-
-This repo. Upload Date :- **12/10/2021** 
+This repo. Upload Date :- **12/10/2021**
 Day :- Tuesday
